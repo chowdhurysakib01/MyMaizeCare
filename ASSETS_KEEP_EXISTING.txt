@@ -1,0 +1,4 @@
+Keep your existing assets folder when extracting this update.
+This ZIP intentionally excludes assets/ so your own seven disease photos are not overwritten.
+Expected image files:
+assets/disease_images/picture1.jpg ... picture7.jpg
